@@ -1,0 +1,7 @@
+# Query: ai project report generator
+
+2 results - 1 file
+
+app.py:
+  162: st.markdown('<div class="title">🌌 AI Project Report Generator</div>', unsafe_allow_html=True)
+  599: © 2024 Project Report Generator. All rights reserved.
